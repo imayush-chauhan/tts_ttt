@@ -1,6 +1,6 @@
 # Command red square with voice
 
-A new Flutter project.
+It did't work on emulator, developers need to make an apk file to test it👍
 
 ![](screenshot/Screenshot%202022-07-04%20at%202.29.38%20PM.png)
 
