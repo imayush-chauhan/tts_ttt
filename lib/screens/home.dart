@@ -71,7 +71,7 @@ class _HomeScreenState extends State<HomeScreen> {
         if(_speechToText.isListening){
           listening = true;
 
-          s = "Listening";
+          s = "Listening ";
           setState(() {});
         }else{
           print("Listening Not working");
